@@ -12,10 +12,10 @@ var client = new Twitter({
 });
 
 var date = new Date();
+var old_date = date;
 var pr_date = '-' + (date.getMonth()+1) + '-' + date.getDate();
 var params = { screen_name : 'nodejs'};
 var prefix = './data/';
-
 
 var ids = [
   {
@@ -27,23 +27,37 @@ var ids = [
     area : 'USA'
   },
   {
-    id : 24865675,
-    area : 'Europe'
+    id : 23424975,
+    area : 'UK'
   },
   {
-    id : 24865672,
-    area : 'NA'
+    id : 23424768,
+    area : 'Brazil'
   },
   {
-    id : 24865671,
-    area : 'Asia'
+    id : 23424868,
+    area : 'South Korea'
+  },
+  {
+    id : 23424852,
+    area : 'Israel'
+  },
+  {
+    id : 2487956,
+    area : 'San Fran',
+  },
+  {
+    id : 2514815,
+    area : 'DC'
   }
 ];
-var seconds = 10;
+
+//15 minutes
+var seconds = 60 * 15;
+//var seconds = 5;
 var down = 0;
 
-var counts = {
-};
+var counts = { };
 
 var y = ids.length;
 while (y--) {
@@ -57,6 +71,10 @@ while (y--) {
 
 setInterval(function() {
   date = new Date();
+  if (date.getDate() !== old_date.getDate()) {
+    counts = { };
+  }
+  old_date = date;
   pr_date = '-' + (date.getMonth()+1) + '-' + date.getDate();
   async.mapSeries(ids, function(item, done) {
     var locationId = item.id;
