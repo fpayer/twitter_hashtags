@@ -1,0 +1,442 @@
+{
+  "#GameofThrones": {
+    "count": 3,
+    "promoted": false
+  },
+  "#MTVMovieAwards": {
+    "count": 11,
+    "promoted": false
+  },
+  "Cherry Bomb": {
+    "count": 27,
+    "promoted": false
+  },
+  "#RHOA": {
+    "count": 11,
+    "promoted": false
+  },
+  "#Veep": {
+    "count": 15,
+    "promoted": false
+  },
+  "#NBLFrancisca": {
+    "count": 1,
+    "promoted": false
+  },
+  "Lou Holtz": {
+    "count": 15,
+    "promoted": false
+  },
+  "Michael Bolton": {
+    "count": 6,
+    "promoted": false
+  },
+  "Megan": {
+    "count": 5,
+    "promoted": false
+  },
+  "Harry Crane": {
+    "count": 1,
+    "promoted": false
+  },
+  "#earthquake": {
+    "count": 29,
+    "promoted": false
+  },
+  "#SiliconValley": {
+    "count": 15,
+    "promoted": false
+  },
+  "Francisca": {
+    "count": 7,
+    "promoted": false
+  },
+  "#Revenge": {
+    "count": 2,
+    "promoted": false
+  },
+  "#SecretsAndLies": {
+    "count": 6,
+    "promoted": false
+  },
+  "Florence": {
+    "count": 2,
+    "promoted": false
+  },
+  "David Guetta": {
+    "count": 17,
+    "promoted": false
+  },
+  "Gaslamp Killer": {
+    "count": 3,
+    "promoted": false
+  },
+  "Marvin's Room": {
+    "count": 1,
+    "promoted": false
+  },
+  "Madonna": {
+    "count": 47,
+    "promoted": false
+  },
+  "Drake": {
+    "count": 6,
+    "promoted": false
+  },
+  "Jon Snow": {
+    "count": 6,
+    "promoted": false
+  },
+  "Find Your Love": {
+    "count": 13,
+    "promoted": false
+  },
+  "#MusicATvShow": {
+    "count": 24,
+    "promoted": false
+  },
+  "#HoneymoonTourSanJose": {
+    "count": 5,
+    "promoted": false
+  },
+  "#BadGeekPickUpLines": {
+    "count": 9,
+    "promoted": false
+  },
+  "#LastWeekTonight": {
+    "count": 1,
+    "promoted": false
+  },
+  "#CCWUN": {
+    "count": 13,
+    "promoted": false
+  },
+  "Livit": {
+    "count": 10,
+    "promoted": false
+  },
+  "#EvidenceLive": {
+    "count": 3,
+    "promoted": false
+  },
+  "Good Monday": {
+    "count": 2,
+    "promoted": false
+  },
+  "The Tin Drum": {
+    "count": 10,
+    "promoted": false
+  },
+  "#MondayMotivation": {
+    "count": 36,
+    "promoted": false
+  },
+  "#MemosFromDOJ": {
+    "count": 3,
+    "promoted": false
+  },
+  "Priebus": {
+    "count": 2,
+    "promoted": false
+  },
+  "Smuckers": {
+    "count": 1,
+    "promoted": false
+  },
+  "Megabus": {
+    "count": 9,
+    "promoted": false
+  },
+  "#ThreeMAGICWords": {
+    "count": 21,
+    "promoted": false
+  },
+  "#frantasticmonday": {
+    "count": 6,
+    "promoted": false
+  },
+  "Monday Morning": {
+    "count": 5,
+    "promoted": false
+  },
+  "#TGIM": {
+    "count": 1,
+    "promoted": false
+  },
+  "Fiorina": {
+    "count": 1,
+    "promoted": false
+  },
+  "Günter Grass": {
+    "count": 5,
+    "promoted": false
+  },
+  "Marco Rubio": {
+    "count": 54,
+    "promoted": false
+  },
+  "#UnpopularAnimatedMovies": {
+    "count": 21,
+    "promoted": false
+  },
+  "Eduardo Galeano": {
+    "count": 28,
+    "promoted": false
+  },
+  "#NCSM15": {
+    "count": 1,
+    "promoted": false
+  },
+  "Gunter Grass": {
+    "count": 1,
+    "promoted": false
+  },
+  "S-300": {
+    "count": 2,
+    "promoted": false
+  },
+  "Thomas Jefferson": {
+    "count": 13,
+    "promoted": false
+  },
+  "#5HonKellyAndMichael": {
+    "count": 4,
+    "promoted": false
+  },
+  "#FUELDetroit": {
+    "count": 4,
+    "promoted": false
+  },
+  "#AntMan": {
+    "count": 17,
+    "promoted": false
+  },
+  "Wayne Community College": {
+    "count": 9,
+    "promoted": false
+  },
+  "#HIMSS15": {
+    "count": 4,
+    "promoted": false
+  },
+  "#JodiArias": {
+    "count": 19,
+    "promoted": false
+  },
+  "Terminator": {
+    "count": 12,
+    "promoted": false
+  },
+  "Anthony Grant": {
+    "count": 3,
+    "promoted": false
+  },
+  "#HandwrittenAtMidnight": {
+    "count": 38,
+    "promoted": false
+  },
+  "House of Wolves": {
+    "count": 4,
+    "promoted": false
+  },
+  "#IOnceHadABossWho": {
+    "count": 25,
+    "promoted": false
+  },
+  "Liam and Louis": {
+    "count": 1,
+    "promoted": false
+  },
+  "#sammywilk": {
+    "count": 1,
+    "promoted": false
+  },
+  "Louis and Liam": {
+    "count": 2,
+    "promoted": false
+  },
+  "#OhNoNiall": {
+    "count": 15,
+    "promoted": false
+  },
+  "Citi Field": {
+    "count": 1,
+    "promoted": false
+  },
+  "Fenway": {
+    "count": 3,
+    "promoted": false
+  },
+  "Ben Revere": {
+    "count": 3,
+    "promoted": false
+  },
+  "#MOTAVATORMONDAY": {
+    "count": 1,
+    "promoted": false
+  },
+  "Gerrit Cole": {
+    "count": 3,
+    "promoted": false
+  },
+  "#FutureHive": {
+    "count": 10,
+    "promoted": false
+  },
+  "Mookie Betts": {
+    "count": 19,
+    "promoted": false
+  },
+  "Jungle Tour": {
+    "count": 10,
+    "promoted": false
+  },
+  "Corey Hart": {
+    "count": 2,
+    "promoted": false
+  },
+  "Urban Meyer": {
+    "count": 12,
+    "promoted": false
+  },
+  "#WhatsOnMyPhone": {
+    "count": 17,
+    "promoted": false
+  },
+  "Jordan Zimmermann": {
+    "count": 1,
+    "promoted": false
+  },
+  "#SpaceX": {
+    "count": 4,
+    "promoted": false
+  },
+  "Psylocke": {
+    "count": 15,
+    "promoted": false
+  },
+  "Adrian Fiala": {
+    "count": 6,
+    "promoted": false
+  },
+  "Rubio": {
+    "count": 1,
+    "promoted": false
+  },
+  "#AaronsNewVideo": {
+    "count": 9,
+    "promoted": false
+  },
+  "iOS 8.4": {
+    "count": 2,
+    "promoted": false
+  },
+  "#HandwrittenMOA": {
+    "count": 1,
+    "promoted": false
+  },
+  "#BlindfoldedMakeUpChallenge": {
+    "count": 4,
+    "promoted": false
+  },
+  "Lawrence Phillips": {
+    "count": 12,
+    "promoted": false
+  },
+  "Alaska Airlines": {
+    "count": 3,
+    "promoted": false
+  },
+  "#Gotham": {
+    "count": 4,
+    "promoted": false
+  },
+  "#RAWLondon": {
+    "count": 15,
+    "promoted": false
+  },
+  "Wonder Woman": {
+    "count": 9,
+    "promoted": false
+  },
+  "#LHHNYReunion": {
+    "count": 12,
+    "promoted": false
+  },
+  "Peter Gunz": {
+    "count": 4,
+    "promoted": false
+  },
+  "Crabtree": {
+    "count": 8,
+    "promoted": false
+  },
+  "#TNSquadOnTour": {
+    "count": 3,
+    "promoted": false
+  },
+  "#BlackInkCrew": {
+    "count": 11,
+    "promoted": false
+  },
+  "#DWTS": {
+    "count": 10,
+    "promoted": false
+  },
+  "Stephen Drew": {
+    "count": 10,
+    "promoted": false
+  },
+  "Barter 6": {
+    "count": 6,
+    "promoted": false
+  },
+  "Andrew Miller": {
+    "count": 4,
+    "promoted": false
+  },
+  "Ivan Rabb": {
+    "count": 3,
+    "promoted": false
+  },
+  "The Knicks": {
+    "count": 3,
+    "promoted": false
+  },
+  "#AskShawnHandwritten": {
+    "count": 3,
+    "promoted": false
+  },
+  "Nelson Cruz": {
+    "count": 3,
+    "promoted": false
+  },
+  "Soler": {
+    "count": 1,
+    "promoted": false
+  },
+  "#HandwrittenOniTunes": {
+    "count": 2,
+    "promoted": false
+  },
+  "#AvengersPremiere": {
+    "count": 1,
+    "promoted": false
+  },
+  "My Side": {
+    "count": 2,
+    "promoted": false
+  },
+  "CUBS WIN": {
+    "count": 1,
+    "promoted": false
+  },
+  "Klay Thompson": {
+    "count": 1,
+    "promoted": false
+  },
+  "#CollegeMovies": {
+    "count": 1,
+    "promoted": false
+  }
+}

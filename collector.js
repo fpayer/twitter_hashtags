@@ -4,6 +4,7 @@ var path = './data/';
 
 var master = { };
 var limit = 5;
+var DAYS_TRENDING = 2;
 var promoted = false;
 
 var builder = ['hashtag', 'promoted'];
@@ -61,9 +62,10 @@ fs.readdir(path, function(err, files) {
               var hashtag = keys[x];
               var count = json[hashtag];
               if (count.count >= limit) {
+                hashtag = hashtag.toLowerCase();
                 if (!locationMap[hashtag]) {
                   locationMap[hashtag] = populate(builder);
-                  locationMap[hashtag].hashtag = hashtag;
+                  locationMap[hashtag].hashtag = hashtag;//.toLowerCase();
                   if (promoted) {
                     locationMap[hashtag].promoted = count.promoted;
                   }
@@ -89,8 +91,23 @@ fs.readdir(path, function(err, files) {
 
           while (y < hashtags.length) {
             var hashtag = hashtags[y];
-            var dat = hash_dict[hashtag];
-            to_write.push(dat);
+            
+            var num_trending = 0;
+            var days = hash_dict[hashtag];
+            var day_keys = Object.keys(days);
+            var counter = 1;
+            while (counter < day_keys.length) {
+              var hashtag_count = days[day_keys[counter]];
+              if (hashtag_count > 0) {
+                num_trending++;
+              }
+              counter++;
+            }
+            
+            if (num_trending >= DAYS_TRENDING) {
+              var dat = hash_dict[hashtag];
+              to_write.push(dat);
+            }
             y++;
           }
 

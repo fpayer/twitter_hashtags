@@ -90,7 +90,7 @@ setInterval(function() {
 
             var x = 0;
             while (x < grab.length) {
-              var name = grab[x].name;
+              var name = grab[x].name.toLowerCase();
               var promoted = !!grab[x].promoted_content;
 
               if (counts[area][name]) {
